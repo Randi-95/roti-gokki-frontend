@@ -1,4 +1,4 @@
-# 🚀 Cloning & Menjalankan Proyek React dengan Vite
+# 🚀 Cloning & Menjalankan Proyek VUE dengan Vite
 
 Tutorial ini akan membantu Anda untuk melakukan cloning dan menjalankan proyek Vue yang dibuat menggunakan Vite.
 
@@ -16,7 +16,7 @@ Sebelum memulai, pastikan Anda telah menginstal:
 
 ### 3. Clone menggunakan HTTPS
 ```bash
-git clone https://github.com/Randi-95/capstone2.git .
+https://github.com/Randi-95/roti-gokki-frontend .
 ```
 
 ## 🚀 Menjalankan Proyek
